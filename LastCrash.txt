@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/pyqtgraph/opengl/GLViewWidget.py", line 223, in paintGL
+    def paintGL(self, region=None, viewport=None, useItemNames=False):
+    
+KeyboardInterrupt
